@@ -1,5 +1,11 @@
 5-turi-shinyproxy
+-----------------------------
+PROBLEMA:
+> shiny::runApp('/root/euler')
+Loading required package: shiny
 
+Listening on http://127.0.0.1:5653
+--------------------------------
 
 # ShinyProxy Template
 
